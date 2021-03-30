@@ -16,5 +16,6 @@
 !/log/.keep
 /tmp
 
-# Secrets
-/config/secrets.yml
+# Config
+config/database.yml
+config/secrets.yml
