@@ -17,4 +17,4 @@
 /tmp
 
 # Secrets
-secrets.yml
+/config/secrets.yml
